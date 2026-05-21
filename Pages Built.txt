@@ -1,4 +1,4 @@
-story-of-atmos-final.html     COMPLETE
+index.html     COMPLETE
 cybernyx_final.html           COMPLETE
 atmos-world-news              NOT STARTED
 subscribe                     NOT STARTED
